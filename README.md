@@ -1,10 +1,12 @@
 # Astra Admin Web
 
-基于 [plus-ui](https://gitee.com/JavaLionLi/plus-ui) 项目深度定制的前端管理界面，采用 Vue3 + TypeScript + Vite 构建，为 Astra 企业级后台管理系统提供现代化的用户界面。
+基于 [plus-ui](https://gitee.com/JavaLionLi/plus-ui) 项目深度定制的前端管理界面<br/>
 
 ## 项目简介
 
-Astra Admin Web 是 Astra 企业级后台管理系统的前端部分，采用最新的前端技术栈构建，提供直观易用的管理界面，支持设备管理、智能体配置、系统监控等功能。
+基于 <a href="https://github.com/78/xiaozhi-esp32">Xiaozhi ESP32</a> 项目开发的前端<br/>
+，提供直观易用的管理界面，支持设备管理、智能体配置、系统监控等功能。
+后端项目：[GitHub](https://github.com/lisuiheng/xiaozhi-java-server) 或 [Gitee](https://gitee.com/lisuiheng1/xiaozhi-java-server)<br/>
 
 ## 技术栈
 
